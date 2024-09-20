@@ -31,7 +31,6 @@
             button1 = new Button();
             checkBox1 = new CheckBox();
             label1 = new Label();
-            label2 = new Label();
             SuspendLayout();
             // 
             // button1
@@ -64,22 +63,12 @@
             label1.TabIndex = 2;
             label1.Text = "Самый безопасный и эффективный браузер";
             // 
-            // label2
-            // 
-            label2.AutoSize = true;
-            label2.Location = new Point(215, 280);
-            label2.Name = "label2";
-            label2.Size = new Size(488, 15);
-            label2.TabIndex = 3;
-            label2.Text = "короче слияние не получилось какой то устранение конфликтов надо сдлать но хз как";
-            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(128, 255, 255);
             ClientSize = new Size(715, 314);
-            Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(checkBox1);
             Controls.Add(button1);
@@ -94,6 +83,5 @@
         private Button button1;
         private CheckBox checkBox1;
         private Label label1;
-        private Label label2;
     }
 }
