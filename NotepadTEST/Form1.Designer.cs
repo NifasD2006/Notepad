@@ -29,6 +29,8 @@
         private void InitializeComponent()
         {
             button1 = new Button();
+            checkBox1 = new CheckBox();
+            label1 = new Label();
             SuspendLayout();
             // 
             // button1
@@ -41,20 +43,45 @@
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
+            // checkBox1
+            // 
+            checkBox1.AutoSize = true;
+            checkBox1.Location = new Point(97, 131);
+            checkBox1.Name = "checkBox1";
+            checkBox1.Size = new Size(157, 19);
+            checkBox1.TabIndex = 1;
+            checkBox1.Text = "Скачать яндекс браузер";
+            checkBox1.UseVisualStyleBackColor = true;
+            checkBox1.CheckedChanged += checkBox1_CheckedChanged;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(41, 166);
+            label1.Name = "label1";
+            label1.Size = new Size(253, 15);
+            label1.TabIndex = 2;
+            label1.Text = "Самый безопасный и эффективный браузер";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.FromArgb(255, 128, 0);
-            ClientSize = new Size(884, 161);
+            BackColor = Color.Yellow;
+            ClientSize = new Size(306, 314);
+            Controls.Add(label1);
+            Controls.Add(checkBox1);
             Controls.Add(button1);
             Name = "Form1";
-            Text = "Блокнот";
+            Text = "Торент(точно необман)";
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
 
         private Button button1;
+        private CheckBox checkBox1;
+        private Label label1;
     }
 }
