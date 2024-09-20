@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Данис\\source\\repos\\Notepad\\NotepadTEST\\NotepadTEST.csproj": {}
+    "C:\\Users\\Данис\\Source\\Repos\\Notepad\\NotepadTEST\\NotepadTEST.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Данис\\source\\repos\\Notepad\\NotepadTEST\\NotepadTEST.csproj": {
+    "C:\\Users\\Данис\\Source\\Repos\\Notepad\\NotepadTEST\\NotepadTEST.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Данис\\source\\repos\\Notepad\\NotepadTEST\\NotepadTEST.csproj",
+        "projectUniqueName": "C:\\Users\\Данис\\Source\\Repos\\Notepad\\NotepadTEST\\NotepadTEST.csproj",
         "projectName": "NotepadTEST",
-        "projectPath": "C:\\Users\\Данис\\source\\repos\\Notepad\\NotepadTEST\\NotepadTEST.csproj",
+        "projectPath": "C:\\Users\\Данис\\Source\\Repos\\Notepad\\NotepadTEST\\NotepadTEST.csproj",
         "packagesPath": "C:\\Users\\Данис\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Данис\\source\\repos\\Notepad\\NotepadTEST\\obj\\",
+        "outputPath": "C:\\Users\\Данис\\Source\\Repos\\Notepad\\NotepadTEST\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
