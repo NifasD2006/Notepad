@@ -45,8 +45,8 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.FromArgb(255, 255, 128);
-            ClientSize = new Size(784, 361);
+            BackColor = Color.FromArgb(255, 128, 0);
+            ClientSize = new Size(884, 161);
             Controls.Add(button1);
             Name = "Form1";
             Text = "Блокнот";
