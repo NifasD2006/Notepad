@@ -1,0 +1,16 @@
+C:\Users\Данис\source\repos\Notepad\NotepadTEST\bin\Debug\net6.0-windows\NotepadTEST.exe
+C:\Users\Данис\source\repos\Notepad\NotepadTEST\bin\Debug\net6.0-windows\NotepadTEST.deps.json
+C:\Users\Данис\source\repos\Notepad\NotepadTEST\bin\Debug\net6.0-windows\NotepadTEST.runtimeconfig.json
+C:\Users\Данис\source\repos\Notepad\NotepadTEST\bin\Debug\net6.0-windows\NotepadTEST.dll
+C:\Users\Данис\source\repos\Notepad\NotepadTEST\bin\Debug\net6.0-windows\NotepadTEST.pdb
+C:\Users\Данис\source\repos\Notepad\NotepadTEST\obj\Debug\net6.0-windows\NotepadTEST.Form1.resources
+C:\Users\Данис\source\repos\Notepad\NotepadTEST\obj\Debug\net6.0-windows\NotepadTEST.csproj.GenerateResource.cache
+C:\Users\Данис\source\repos\Notepad\NotepadTEST\obj\Debug\net6.0-windows\NotepadTEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данис\source\repos\Notepad\NotepadTEST\obj\Debug\net6.0-windows\NotepadTEST.AssemblyInfoInputs.cache
+C:\Users\Данис\source\repos\Notepad\NotepadTEST\obj\Debug\net6.0-windows\NotepadTEST.AssemblyInfo.cs
+C:\Users\Данис\source\repos\Notepad\NotepadTEST\obj\Debug\net6.0-windows\NotepadTEST.csproj.CoreCompileInputs.cache
+C:\Users\Данис\source\repos\Notepad\NotepadTEST\obj\Debug\net6.0-windows\NotepadTEST.dll
+C:\Users\Данис\source\repos\Notepad\NotepadTEST\obj\Debug\net6.0-windows\refint\NotepadTEST.dll
+C:\Users\Данис\source\repos\Notepad\NotepadTEST\obj\Debug\net6.0-windows\NotepadTEST.pdb
+C:\Users\Данис\source\repos\Notepad\NotepadTEST\obj\Debug\net6.0-windows\NotepadTEST.genruntimeconfig.cache
+C:\Users\Данис\source\repos\Notepad\NotepadTEST\obj\Debug\net6.0-windows\ref\NotepadTEST.dll
